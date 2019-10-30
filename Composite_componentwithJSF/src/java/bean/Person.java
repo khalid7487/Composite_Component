@@ -1,9 +1,8 @@
 
 package bean;
 
-import javax.annotation.ManagedBean;
 import javax.faces.bean.ApplicationScoped;
-
+import javax.faces.bean.ManagedBean;
 
 @ManagedBean
 @ApplicationScoped
